@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Data analysis based projects
 
 - 💬 Ask me about my learning journey
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: ... twitter.com/thewokebola
+
+- ⚡ Fun fact: i started learning data analysis because I discovered it is how my brain works
+
